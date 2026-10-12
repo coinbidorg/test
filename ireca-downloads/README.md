@@ -1,3 +1,3 @@
-# iReca download transport
+# iReca Downloads transfer completed
 
-Original Windows distribution packages. Orders is transferred in two byte ranges because the connector request frame has a 64 MiB limit. Join part-01 then part-02 to recover the original ZIP, SHA-256 fe6a00ff4039282074589fc5de44a6e9786129910edd86b2e7f8bcad9fd509d4. These transfer parts are not repackaged or encrypted.
+The original Orders Windows 0.2.1 and Fiscal Windows 0.6.23 archives were transferred to permanent storage in the owner's connected Higgsfield account and verified by SHA-256. Current application access is through the authenticated CRM Downloads page. Temporary transport files have been removed from this branch; Git history preserves the transfer audit.
